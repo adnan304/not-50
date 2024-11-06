@@ -1,0 +1,257 @@
+[
+  {
+    "session_name": "name_example",
+    "user_agent": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.165 Mobile Safari/537.36",
+    "proxy": "type://user:pass:ip:port"
+  },
+  {
+    "session_name": "zain-24",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13.0; LG V60) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.4.5088.80 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:147.136.64.31:5794"
+  },
+  {
+    "session_name": "zain-28",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.3.1988.35 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:45.131.103.47:6033"
+  },
+  {
+    "session_name": "zain-6",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.4.2088.40 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:104.239.108.166:6401"
+  },
+  {
+    "session_name": "zain-41",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; OnePlus 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.1.9154.93 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:45.94.136.250:7026"
+  },
+  {
+    "session_name": "zain-15",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.4.9705.57 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:45.67.2.31:5605"
+  },
+  {
+    "session_name": "zain-29",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; LG G8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.5.4169.55 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:137.59.4.32:5901"
+  },
+  {
+    "session_name": "zain-19",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; SM-G781B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.6.4494.84 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:92.112.228.142:6223"
+  },
+  {
+    "session_name": "zain-44",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11.0; Nokia 9 PureView) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.8.9930.34 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:64.137.100.244:5299"
+  },
+  {
+    "session_name": "zain-20",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; SM-G996B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.1.7007.52 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:185.39.8.18:5675"
+  },
+  {
+    "session_name": "zain-35",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; OnePlus 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.1.8546.73 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:137.59.7.164:5708"
+  },
+  {
+    "session_name": "Zain-18",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11.0; OnePlus Nord 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.5.2445.96 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:92.112.239.251:7039"
+  },
+  {
+    "session_name": "zain-16",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.6.2638.3 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:206.41.174.170:6125"
+  },
+  {
+    "session_name": "zain-27",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11.0; LG V50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.2.5999.59 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:43.228.237.172:6118"
+  },
+  {
+    "session_name": "zain-45",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13.0; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.7.3949.32 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:104.238.7.35:5962"
+  },
+  {
+    "session_name": "zain-39",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.3.3635.53 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:185.198.37.133:5820"
+  },
+  {
+    "session_name": "zain-9",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.1.7005.8 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:94.176.106.56:6470"
+  },
+  {
+    "session_name": "Level-30",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; SM-G996B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.6.8463.22 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:206.41.174.94:6049"
+  },
+  {
+    "session_name": "ali raza 2ndlast",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13.0; OnePlus 10T Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.2.4568.47 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:104.239.43.195:5923"
+  },
+  {
+    "session_name": "zain-43",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11.0; OnePlus 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.4.1229.29 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:45.67.2.193:5767"
+  },
+  {
+    "session_name": "zain-23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11.0; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.8.6355.62 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:45.41.169.165:6826"
+  },
+  {
+    "session_name": "zain-31",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.5.2896.98 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:84.247.60.144:6114"
+  },
+  {
+    "session_name": "zain-36",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; Xiaomi Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.8.2733.92 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:104.238.7.72:5999"
+  },
+  {
+    "session_name": "zain-37",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11.0; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.3.5490.35 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:161.123.131.87:5692"
+  },
+  {
+    "session_name": "zain-2",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.6.6853.90 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:45.41.171.209:6245"
+  },
+  {
+    "session_name": "zain-33",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; Huawei Mate 40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.9.9952.29 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:31.223.189.62:6328"
+  },
+  {
+    "session_name": "zain-14",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.4.7104.44 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:94.176.106.172:6586"
+  },
+  {
+    "session_name": "zain-32",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13.0; OnePlus 10T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.3.8695.37 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:94.176.106.79:6493"
+  },
+  {
+    "session_name": "zain-34",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11.0; Sony Xperia 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.6.3640.98 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:104.222.167.195:6597"
+  },
+  {
+    "session_name": "zain-11",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11.0; LG V50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.4.7776.38 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:104.222.168.74:5890"
+  },
+  {
+    "session_name": "zain-13",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13.0; Huawei P30) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.3.2636.34 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:206.41.174.102:6057"
+  },
+  {
+    "session_name": "zain-5",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.9.9422.90 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:43.228.237.158:6104"
+  },
+  {
+    "session_name": "zain-7",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.5.4347.60 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:92.112.228.48:6129"
+  },
+  {
+    "session_name": "zain-26",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13.0; Xiaomi Mi 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.9.7514.57 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:137.59.7.115:5659"
+  },
+  {
+    "session_name": "zain-12",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.5.9879.54 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:94.176.106.250:6664"
+  },
+  {
+    "session_name": "zain-21",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; LG G8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.5.3963.11 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:209.99.134.130:5826"
+  },
+  {
+    "session_name": "zain-42",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; SM-G781B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.5.2224.70 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:209.99.129.201:6189"
+  },
+  {
+    "session_name": "zain-1",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; Pixel 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.5.1982.51 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:104.222.167.45:6447"
+  },
+  {
+    "session_name": "zain-8",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13.0; SM-N981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.3.9058.6 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:185.226.206.4:5973"
+  },
+  {
+    "session_name": "zain-40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; OnePlus 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.8.8876.67 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:206.41.174.98:6053"
+  },
+  {
+    "session_name": "zain-22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.3.2430.19 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:45.131.102.187:5839"
+  },
+  {
+    "session_name": "zain-10",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13.0; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.9.4764.10 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:104.222.167.242:6644"
+  },
+  {
+    "session_name": "usama",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; LG V50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.8.8714.51 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:94.176.106.220:6634"
+  },
+  {
+    "session_name": "ali raza last",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13.0; LG G8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.8.6769.75 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:185.226.206.250:6219"
+  },
+  {
+    "session_name": "multi-8",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.4.7862.83 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:168.199.247.86:6359"
+  },
+  {
+    "session_name": "zain-30",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11.0; OnePlus Nord CE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.8.3244.92 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:206.41.179.57:5733"
+  },
+  {
+    "session_name": "zain-17",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12.0; OnePlus 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.4.2003.57 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:209.99.129.177:6165"
+  },
+  {
+    "session_name": "zain-38",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.1.2538.91 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:172.84.183.105:5665"
+  },
+  {
+    "session_name": "zain-3",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11.0; Xiaomi Redmi Note 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.5.4086.98 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:172.98.169.87:6511"
+  },
+  {
+    "session_name": "zain-4",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13.0; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.9.6791.21 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:92.112.239.86:6874"
+  },
+  {
+    "session_name": "zain-25",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10.0; SM-F916B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.3.8765.31 Mobile Safari/537.36",
+    "proxy": "socks5://gxvbeqrr:k4qu3ifvwiun:43.229.11.143:5781"
+  }
+]
